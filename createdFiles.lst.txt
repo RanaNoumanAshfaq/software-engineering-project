@@ -1,0 +1,4 @@
+com\mycompany\furnituremanagementsystem\FileManager.class
+com\mycompany\furnituremanagementsystem\FurnitureManagementSystem.class
+com\mycompany\furnituremanagementsystem\FurnitureItem.class
+com\mycompany\furnituremanagementsystem\InventoryManager.class
